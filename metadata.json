@@ -1,0 +1,8 @@
+{
+  "name": "Academia AI",
+  "description": "An AI-powered education assistant app that helps students complete schoolwork faster, learn more effectively, and stay organized. Features include text and image generation, content analysis, speech synthesis and transcription, AI chat, and more.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
